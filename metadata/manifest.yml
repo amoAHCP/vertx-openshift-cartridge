@@ -1,6 +1,6 @@
-Name: vertx
+Name: vertx-static
 Cartridge-Short-Name: VERTX
-Display-Name: Vert.x 3
+Display-Name: Vert.x-static
 Description: "Vert.x is a tool-kit for building reactive applications on the JVM."
 Version: '3.0'
 License: ASL 2.0
